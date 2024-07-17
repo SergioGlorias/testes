@@ -23,3 +23,11 @@ Therefore, in the Application there is a “Reset” button that clicking will d
 In some cases, you can reorder directly through Lichess, not as would be done in studies.
 
 ![](./broadcastReording.gif)
+
+## The round is over, do I have to leave the computer on until the delay ends?
+No, the delay is done directly on our servers, as soon as the last movement is sent to our servers, you no longer need to wait.
+
+## There are no games.pgn in the folder, what do I do now?
+By default, DGT cards do not come with the games.pgn file activated by default, you will have to activate it manually.
+
+![](./livechessPGN.png)

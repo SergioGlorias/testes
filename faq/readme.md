@@ -36,3 +36,6 @@ By default, DGT cards do not come with the games.pgn file activated by default, 
 Yes. Lichess has always allowed other websites to use our website for retransmission on other websites. Currently we show in the “Overview” of each broadcast, the “Sharing is caring” which shows more easily how to share (including PGN).
 
 ![](./SharingIsCaring.png)
+
+## The App is sending a pgn, but it is not showing in Lichess
+Check that the White and Black players have their names included, Lichess will not show boards without player names.

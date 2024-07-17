@@ -31,3 +31,8 @@ No, the delay is done directly on our servers, as soon as the last movement is s
 By default, DGT cards do not come with the games.pgn file activated by default, you will have to activate it manually.
 
 ![](./livechessPGN.png)
+
+## I want to share the broadcast to other sites, can I do that? And how do I do it?
+Yes. Lichess has always allowed other websites to use our website for retransmission on other websites. Currently we show in the “Overview” of each broadcast, the “Sharing is caring” which shows more easily how to share (including PGN).
+
+![](./SharingIsCaring.png)
